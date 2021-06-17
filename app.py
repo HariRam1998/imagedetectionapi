@@ -32,7 +32,7 @@ def prediction():
 
         return 'hello'
     except KeyError:
-        return 'Not Working'
+        return 'Welcome Please Enter like this https://covidlungsdetection.herokuapp.com/?link=Give here the image link'
 
 
 if __name__ == '__main__':
